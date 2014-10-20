@@ -1,10 +1,14 @@
-### Update: Squirt is now covered by an Apache license! 
+### Update: Squirt is now covered by an Apache license!
 
-Apologies to those PRs that got hosed by decoupling squirt.io from the bookmarklet source--resubmit and I'll be happy to engage. 
+Apologies to those PRs that got hosed by decoupling squirt.io from the bookmarklet source--resubmit and I'll be happy to engage.
 
 # Squirt
 
 A speed reading bookmarklet.
+
+# Spurt
+
+My first ever fork. The aim is to make Squirt slow down at headers and other important contextual elements.
 
 ## Features
 
